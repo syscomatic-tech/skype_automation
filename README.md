@@ -14,5 +14,7 @@ chrome driver download link
 ```
 
 <link>
-chrome driver download link
+https://chromedriver.chromium.org/downloads
+
+https://googlechromelabs.github.io/chrome-for-testing
 </link>
